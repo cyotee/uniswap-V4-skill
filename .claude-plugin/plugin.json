@@ -1,0 +1,19 @@
+{
+  "name": "uniswap-v4",
+  "version": "0.1.0",
+  "description": "Progressive disclosure skills for Uniswap V4 protocol development. Covers singleton PoolManager architecture, hooks system, flash accounting with transient storage, ERC6909 LP tokens, and dynamic fees.",
+  "author": {
+    "name": "Uniswap Labs"
+  },
+  "keywords": [
+    "solidity",
+    "uniswap",
+    "hooks",
+    "singleton",
+    "flash-accounting",
+    "transient-storage",
+    "erc6909",
+    "defi"
+  ],
+  "license": "MIT"
+}
